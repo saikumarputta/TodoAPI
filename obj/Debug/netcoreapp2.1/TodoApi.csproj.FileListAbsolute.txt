@@ -1,0 +1,16 @@
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\Saikumar Putta\source\repos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
