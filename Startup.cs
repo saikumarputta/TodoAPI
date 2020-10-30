@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using TODOAPI.Data;
+using TodoApi.Data;
 
 namespace TodoApi
 {
@@ -24,19 +24,13 @@ namespace TodoApi
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //Register your dbcontext with services
-           services.AddDbContext<ApplicationDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            /* if you are using  mysql ,add package MySql.Data.EntityFrameworkCore 
-            or Pomelo.Data.EntityFramework with suitable version from NugetPackage Manager or
-            PMC(Package Manager Console) or from CLI ,it may be any other third party tools
-            */
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddDbContext<TodoApiContext>(options => options.UseInMemoryDatabase("TodoList"));
+            services.AddMvc();
+            services.AddSwaggerGen();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
@@ -48,8 +42,22 @@ namespace TodoApi
                 app.UseHsts();
             }
 
+            app.UseSwagger();
+            app.UseSwaggerUI(s => {
+                s.SwaggerEndpoint("/swagger/v1/swagger.json","TodoApi");
+                s.RoutePrefix = string.Empty;
+            });
+
             app.UseHttpsRedirection();
-            app.UseMvc();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

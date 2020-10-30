@@ -14,3 +14,21 @@ C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.Ass
 C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 C:\Users\Saikumar Putta\source\repos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\skputta\source\repos\saikumarputta\TodoAPI\obj\Debug\netcoreapp2.1\TodoApi.genruntimeconfig.cache
